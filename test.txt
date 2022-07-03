@@ -1,0 +1,6 @@
+Grammar: test_grammar
+Start: start_token
+End: end_token
+
+start_token = token_1 "+" end_token
+            = token_2 "-" end_token
